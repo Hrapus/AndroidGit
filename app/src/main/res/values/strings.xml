@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">My First Git</string>
-    <string name="myfirst_pullrequest">MyFirst PullRequest</string>
+    <string name="myfirst_pullrequest">My Second PullRequest</string>
 </resources>
